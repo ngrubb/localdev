@@ -1,2 +1,2 @@
 # My local dev environment. 
-A slightly modified scotchbox with PHPMYadmin installed. Ready to be booted for new projects.
+A slightly modified ScotchBox with PHPMyAdmin installed. Ready to be booted for new projects.
